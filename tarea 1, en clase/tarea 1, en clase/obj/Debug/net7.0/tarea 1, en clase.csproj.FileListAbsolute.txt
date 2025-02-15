@@ -1,0 +1,15 @@
+D:\tarea 1, en clase\tarea 1, en clase\bin\Debug\net7.0\tarea 1, en clase.exe
+D:\tarea 1, en clase\tarea 1, en clase\bin\Debug\net7.0\tarea 1, en clase.deps.json
+D:\tarea 1, en clase\tarea 1, en clase\bin\Debug\net7.0\tarea 1, en clase.runtimeconfig.json
+D:\tarea 1, en clase\tarea 1, en clase\bin\Debug\net7.0\tarea 1, en clase.dll
+D:\tarea 1, en clase\tarea 1, en clase\bin\Debug\net7.0\tarea 1, en clase.pdb
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.csproj.AssemblyReference.cache
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.AssemblyInfoInputs.cache
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.AssemblyInfo.cs
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.csproj.CoreCompileInputs.cache
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.dll
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\refint\tarea 1, en clase.dll
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.pdb
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\tarea 1, en clase.genruntimeconfig.cache
+D:\tarea 1, en clase\tarea 1, en clase\obj\Debug\net7.0\ref\tarea 1, en clase.dll
